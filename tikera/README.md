@@ -34,7 +34,7 @@ Tehát léteznek például a következő komponensek:
   -[X] A foglalás részletei megjelennek, a kiválasztott vetítés adatai, a kiválasztott jegytípusok, a kiválaszott helyek, és a jegyek árainak összegzése (1pt)
   -[X] A foglalás módosítása közben az összesítő folyamatosan frissül (3pt)
   -[ ] A foglalás véglegesítésével eltárolódnak a foglalás adatai, megint nem tudunk ugyanezekre a helyekre foglalni a vetítésen (2pt)
--[ ] Igényes, reszponzív, mobilra optimalizált megjelenés (3pt)
+-[X] Igényes, reszponzív, mobilra optimalizált megjelenés (részben, igényes megjelenés, de nem reszponzív és nincs mobilra optimalizálva) (3pt)
 
 - Plusz pontok:
   -[ ] LocalStorage: A foglalás adatait LocalStorage-ba mentjük. Ha már létezik foglalás, az automatikusan betöltődik. Ehhez készíts egy saját Hook-ot, amivel a LocalStorage-ba el tudod menteni az értékeket. (3 pont)
